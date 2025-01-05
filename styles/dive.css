@@ -3,7 +3,7 @@
     margin: 30px;
     border: 30px solid aqua;
     box-shadow: 220px 220px 320px palegreen;
-    width: 50%;
+    /* width: 50%; */
     background-size: cover;
     font-size: 30px;
     /* text-decoration: overline; */
@@ -22,7 +22,7 @@
     margin: 30px;
     border: 30px solid deeppink;
     box-shadow: 220px 220px 320px palegreen;
-    width: 50%;
+    /* width: 50%; */
     font-size: 30px;
     font-style: italic;
     background-image: url(image/f.jpg);
