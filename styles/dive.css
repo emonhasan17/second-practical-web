@@ -1,0 +1,58 @@
+.blog{
+    background-image: url(image/1.jpg);
+    margin: 30px;
+    border: 30px solid aqua;
+    box-shadow: 220px 220px 320px palegreen;
+    width: 50%;
+    background-size: cover;
+    font-size: 30px;
+    /* text-decoration: overline; */
+    /* text-align: center; */
+    font-style: italic;
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* background-image: url(image/f.jpg); */
+    /* background-image: url(image/s.jpg); */
+    border-radius: 20px;
+    
+    
+}
+.first{
+    /* background-image: url(image/3.jpg); */
+    
+    margin: 30px;
+    border: 30px solid deeppink;
+    box-shadow: 220px 220px 320px palegreen;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    background-image: url(image/f.jpg);
+    /* background-image: url(image/1.jpg); */
+    color: antiquewhite;
+    background-size: cover;
+    border-radius: 20px;
+}
+/* .second{ */
+    background-image: url(image/s.jpg);
+    margin: 30px;
+    border: 30px solid deeppink;
+    box-shadow: 20px 20px palegreen;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    height: 400px;
+    background-size: 1200px 550px;
+    color: antiquewhite;
+    border-radius: 20px;
+
+
+}
+/* .third{ */
+background-image: url(image/q.jpg);
+margin: 30px;
+    border: 30px solid deeppink;
+    box-shadow: 20px 20px palegreen;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    height: 400px;
+}
